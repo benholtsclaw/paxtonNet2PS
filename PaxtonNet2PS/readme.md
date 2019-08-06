@@ -8,3 +8,5 @@ Start with `Connect-N2Server` to connect to the N2 Server.
 - Use New- to create.
 - Use Set- to update.
 - Use Remove- to remove.
+
+The Aliases on some functions probably won't match your Paxton field names.
